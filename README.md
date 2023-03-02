@@ -22,7 +22,7 @@ Once cloned:
 - exit mysql
 - seed database by using command 'npm run seed'
 - type 'npm run watch' and server should say "Now Listening" in terminal
-- navigate to Insomnia to test the routes
+- navigate to Insomnia/Postman to test the routes
 - feel free to create a frontend, go crazy!
 
 ## Contact
